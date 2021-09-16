@@ -1,4 +1,6 @@
+
 # Git y Github. Primeros pasos
+[TOC]
 ## Elemntos curriculares
 * **RA1**: Reconoce los elementos y herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en las que actúan hasta llegar a su puesta en funcionamiento.
     * **CE 1.f**: Se ha evaluado la funcionalidad ofrecida por las herramientas utilizadas en programación.
@@ -301,8 +303,9 @@ Si accedemos ahora a la web de nuestro repositorio veremos que se ha subido el a
 
 ![](https://i.imgur.com/sVWC62x.png)
 
+**Actividad 5**. Inserta captura en la que se muestre el contenido de la subcarpeta test en el repositorio **intro-github** de tu usuario:
 
 ## Referencias
 * [Guía de Supervivencia de Git y GitHub](https://leanpub.com/gitygithub)
 * [Guía para crear PAT en Github](https://techglimpse.com/git-push-github-token-based-passwordless/)
-
+###### tags: `ets` `ut1` `git` `github` `introducción`
